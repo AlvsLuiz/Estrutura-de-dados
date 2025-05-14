@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false
+    }
+}
